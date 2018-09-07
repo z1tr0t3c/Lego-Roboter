@@ -1,2 +1,2 @@
 # Lego-Roboter
-Ein paar kleine Programme auf basis von Lejos
+Ein paar kleine Programme auf Basis von Lejos
